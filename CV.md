@@ -1,11 +1,15 @@
 ---
 layout: page
-title: Curriculum Vitae
+title: CV
 permalink: /cv/
 ---
 <style>
   div {
     margin-bottom: 60px;
+  }
+
+  .lopp {
+    margin-bottom: 0;
   }
 </style>
 
@@ -249,7 +253,7 @@ permalink: /cv/
   </ul>
 </div>
 
-<div>
+<div class="lopp">
   <strong style="text-transform: uppercase">Digital Competencies</strong>
   <ul>
 
